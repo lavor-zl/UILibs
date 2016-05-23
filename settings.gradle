@@ -1,0 +1,1 @@
+include ':CircleImageViewDemo', ':android-gif-drawabledemo', ':androidswipelayoutdemo', ':expandablelayoutdemo', ':showcaseviewdemo'

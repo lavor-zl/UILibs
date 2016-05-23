@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircleImageViewDemo/CircleImageViewDemo.iml" filepath="$PROJECT_DIR$/CircleImageViewDemo/CircleImageViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UILibs.iml" filepath="$PROJECT_DIR$/UILibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-gif-drawabledemo/android-gif-drawabledemo.iml" filepath="$PROJECT_DIR$/android-gif-drawabledemo/android-gif-drawabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidswipelayoutdemo/androidswipelayoutdemo.iml" filepath="$PROJECT_DIR$/androidswipelayoutdemo/androidswipelayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelayoutdemo/expandablelayoutdemo.iml" filepath="$PROJECT_DIR$/expandablelayoutdemo/expandablelayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcaseviewdemo/showcaseviewdemo.iml" filepath="$PROJECT_DIR$/showcaseviewdemo/showcaseviewdemo.iml" />
+    </modules>
+  </component>
+</project>
