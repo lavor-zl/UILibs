@@ -7,3 +7,4 @@
 |[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)|滑动布局，可以实现侧滑菜单与侧滑删除|androidswipelayoutdemo|[Android UI Libs之AndroidSwipeLayout.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之AndroidSwipeLayout.md)|
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)|可扩展的布局，可以作为折叠工具|expandablelayoutdemo|[Android UI Libs之ExpandableLayout.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之ExpandableLayout.md)|  
 |[ShowcaseView](https://github.com/amlcurran/ShowcaseView)|作用户引导界面|showcaseviewdemo|[Android UI Libs之ShowcaseView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之ShowcaseView.md)|
+|[LabelView](https://github.com/linger1216/labelview)|为视图打标签|labelviewdemo|[Android UI Libs之LabelView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之LabelView.md)|
