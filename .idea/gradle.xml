@@ -11,15 +11,18 @@
             <option value="$PROJECT_DIR$/CircleImageViewDemo" />
             <option value="$PROJECT_DIR$/android-gif-drawabledemo" />
             <option value="$PROJECT_DIR$/android-observablescrollviewdemo" />
+            <option value="$PROJECT_DIR$/android-stackblurdemo" />
             <option value="$PROJECT_DIR$/android-viewbadgerdemo" />
             <option value="$PROJECT_DIR$/androidswipelayoutdemo" />
             <option value="$PROJECT_DIR$/androidtreeviewdemo" />
+            <option value="$PROJECT_DIR$/brokenviewdemo" />
             <option value="$PROJECT_DIR$/circleindicatordemo" />
             <option value="$PROJECT_DIR$/expandablelayoutdemo" />
             <option value="$PROJECT_DIR$/explosionfielddemo" />
             <option value="$PROJECT_DIR$/labelviewdemo" />
             <option value="$PROJECT_DIR$/shortcutbadgerdemo" />
             <option value="$PROJECT_DIR$/showcaseviewdemo" />
+            <option value="$PROJECT_DIR$/trianglifydemo" />
           </set>
         </option>
         <option name="myModules">
@@ -28,15 +31,18 @@
             <option value="$PROJECT_DIR$/CircleImageViewDemo" />
             <option value="$PROJECT_DIR$/android-gif-drawabledemo" />
             <option value="$PROJECT_DIR$/android-observablescrollviewdemo" />
+            <option value="$PROJECT_DIR$/android-stackblurdemo" />
             <option value="$PROJECT_DIR$/android-viewbadgerdemo" />
             <option value="$PROJECT_DIR$/androidswipelayoutdemo" />
             <option value="$PROJECT_DIR$/androidtreeviewdemo" />
+            <option value="$PROJECT_DIR$/brokenviewdemo" />
             <option value="$PROJECT_DIR$/circleindicatordemo" />
             <option value="$PROJECT_DIR$/expandablelayoutdemo" />
             <option value="$PROJECT_DIR$/explosionfielddemo" />
             <option value="$PROJECT_DIR$/labelviewdemo" />
             <option value="$PROJECT_DIR$/shortcutbadgerdemo" />
             <option value="$PROJECT_DIR$/showcaseviewdemo" />
+            <option value="$PROJECT_DIR$/trianglifydemo" />
           </set>
         </option>
       </GradleProjectSettings>

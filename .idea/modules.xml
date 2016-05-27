@@ -6,15 +6,18 @@
       <module fileurl="file://$PROJECT_DIR$/UILibs.iml" filepath="$PROJECT_DIR$/UILibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-gif-drawabledemo/android-gif-drawabledemo.iml" filepath="$PROJECT_DIR$/android-gif-drawabledemo/android-gif-drawabledemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-observablescrollviewdemo/android-observablescrollviewdemo.iml" filepath="$PROJECT_DIR$/android-observablescrollviewdemo/android-observablescrollviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-stackblurdemo/android-stackblurdemo.iml" filepath="$PROJECT_DIR$/android-stackblurdemo/android-stackblurdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-viewbadgerdemo/android-viewbadgerdemo.iml" filepath="$PROJECT_DIR$/android-viewbadgerdemo/android-viewbadgerdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidswipelayoutdemo/androidswipelayoutdemo.iml" filepath="$PROJECT_DIR$/androidswipelayoutdemo/androidswipelayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidtreeviewdemo/androidtreeviewdemo.iml" filepath="$PROJECT_DIR$/androidtreeviewdemo/androidtreeviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brokenviewdemo/brokenviewdemo.iml" filepath="$PROJECT_DIR$/brokenviewdemo/brokenviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleindicatordemo/circleindicatordemo.iml" filepath="$PROJECT_DIR$/circleindicatordemo/circleindicatordemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/expandablelayoutdemo/expandablelayoutdemo.iml" filepath="$PROJECT_DIR$/expandablelayoutdemo/expandablelayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/explosionfielddemo/explosionfielddemo.iml" filepath="$PROJECT_DIR$/explosionfielddemo/explosionfielddemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/labelviewdemo/labelviewdemo.iml" filepath="$PROJECT_DIR$/labelviewdemo/labelviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/shortcutbadgerdemo/shortcutbadgerdemo.iml" filepath="$PROJECT_DIR$/shortcutbadgerdemo/shortcutbadgerdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/showcaseviewdemo/showcaseviewdemo.iml" filepath="$PROJECT_DIR$/showcaseviewdemo/showcaseviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trianglifydemo/trianglifydemo.iml" filepath="$PROJECT_DIR$/trianglifydemo/trianglifydemo.iml" />
     </modules>
   </component>
 </project>

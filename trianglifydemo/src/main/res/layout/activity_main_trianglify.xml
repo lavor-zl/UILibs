@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.lavor.trianglifydemo.MainActivity">
+    <com.manolovn.trianglify.TrianglifyView
+        android:id="@+id/trianglify_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cellSize="75"
+        app:variance="40"
+        app:bleedX="50"
+        app:bleedY="50"
+        app:colorGenerator="com.manolovn.trianglify.generator.point.CircularPointGenerator"/>
+</RelativeLayout>

@@ -21,12 +21,16 @@ public class MainActivity extends AppCompatActivity {
         this.image = (ImageView) findViewById(R.id.image);
         this.button = (Button) findViewById(R.id.button);
         this.icon = (ImageView) findViewById(R.id.icon);
+        //创建ExplosionField对象
         final ExplosionField mExplosionField = ExplosionField.attach2Window(this);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //让icon爆炸
                 mExplosionField.explode(icon);
+                //让image爆炸
                 mExplosionField.explode(image);
+
             }
         });
     }
