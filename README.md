@@ -12,5 +12,10 @@
 |[AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView)|树形视图|androidtreeviewdemo|[Android UI Libs之AndroidTreeView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之AndroidTreeView.md)|  
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)|圆形指示器，与ViewPager配合使用作轮播|circleindicatordemo|[Android UI Libs之CircleIndicator.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之CircleIndicator.md)|  
 |[android-viewbadger](https://github.com/jgilfelt/android-viewbadger)|为视图添加“徽章”，通常用作显示未读消息个数|android-viewbadgerdemo|[Android UI Libs之android-viewbadger.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之Android-ObservableScrollView.md)|  
+|[ExplosionField](https://github.com/tyrantgit/ExplosionField)|让视图爆炸成粉尘效果|explosionfielddemo|[Android UI Libs之ExplosionField.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之ExplosionField.md)|  
+|[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)|为app的luanch快捷添加“徽章”，通常用作显示未读消息个数|shortcutbadgerdemo|[Android UI Libs之ShortcutBadger.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之ShortcutBadger.md)|  
+|[BrokenView](https://github.com/zhanyongsheng/BrokenView)|让视图产生玻璃破裂效果|brokenviewdemo|[Android UI Libs之BrokenView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之BrokenView.md)|  
+|[LabelView](https://github.com/linger1216/labelview)|对图像进行模糊化处理，可制作毛玻璃效果|android-stackblurdemo|[Android UI Libs之android-stackblur.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之android-stackblur.md)|  
+|[trianglify](https://github.com/manolovn/trianglify)|产生由由不同颜色三角形组成的视图|trianglifydemo|[Android UI Libs之trianglify.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之trianglify.md)|  
 
 
