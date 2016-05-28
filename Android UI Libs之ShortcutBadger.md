@@ -2,7 +2,7 @@
 ***  
 #1. 说明  
 ***  
-[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)与前面介绍过的[android-viewbadger](https://github.com/jgilfelt/android-viewbadger)类似，都是加上“徽章”，ShortcutBadger是给app快捷luanch添加数字“徽章”，android-viewbadger是给视图添加文本“徽章”。ShortcutBadger常用来在app快捷luanch上显示未读的消息的个数。  
+[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)与前面介绍过的[android-viewbadger](https://github.com/jgilfelt/android-viewbadger)类似，都是加上“徽章”，ShortcutBadger是给app快捷launch添加数字“徽章”，android-viewbadger是给视图添加文本“徽章”。ShortcutBadger常用来在app快捷launch上显示未读的消息的个数。  
 
 支持的机型：  
 ![](http://i.imgur.com/ozpzykr.png)  
@@ -27,13 +27,13 @@ dependencies {
 
 #3. 基本使用  
 ***  
-- 向app的luanch快捷添加数字“徽章”  
+- 向app的launch快捷添加数字“徽章”  
 ```
     int badgeCount = 1;
     ShortcutBadger.applyCount(context, badgeCount); //1.1.4版本添加数字“徽章”的方法
     ShortcutBadger.with(getApplicationContext()).count(badgeCount); //1.1.3版本添加数字“徽章”的方法
 ```  
-- 删除app的luanch快捷上的数字“徽章”  
+- 删除app的launch快捷上的数字“徽章”  
   - 方法1：
 ```  
     ShortcutBadger.removeCount(context); //1.1.4版本删除数字“徽章”的方法
