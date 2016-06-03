@@ -20,4 +20,4 @@
 |[shimmer-android](https://github.com/facebook/shimmer-android)|让视图产生微光效果|shimmer-androiddemo|[Android UI Libs之shimmer-android.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之shimmer-android.md)|  
 |[Titanic](https://github.com/RomainPiel/Titanic)|让TextView产生下沉效果|titanicdemo|[Android UI Libs之Titanic.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之Titanic.md)|  
 |[PhotoView](https://github.com/chrisbanes/PhotoView)|通过触摸放大图片|photoviewdemo|[Android UI Libs之PhotoView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之PhotoView.md)|  
-
+|[SwipeToLoadLayout](https://github.com/Aspsine/SwipeToLoadLayout)|上拉刷新与下拉加载更多|swipetoloadlayoutdemo|[Android UI Libs之SwipeToLoadLayout.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之SwipeToLoadLayout.md)|  
