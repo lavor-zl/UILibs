@@ -15,7 +15,7 @@
 |[ExplosionField](https://github.com/tyrantgit/ExplosionField)|让视图爆炸成粉尘效果|explosionfielddemo|[Android UI Libs之ExplosionField.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之ExplosionField.md)|  
 |[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)|为app的launch快捷添加“徽章”，通常用作显示未读消息个数|shortcutbadgerdemo|[Android UI Libs之ShortcutBadger.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之ShortcutBadger.md)|  
 |[BrokenView](https://github.com/zhanyongsheng/BrokenView)|让视图产生玻璃破裂效果|brokenviewdemo|[Android UI Libs之BrokenView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之BrokenView.md)|  
-|[LabelView](https://github.com/linger1216/labelview)|对图像进行模糊化处理，可制作毛玻璃效果|android-stackblurdemo|[Android UI Libs之android-stackblur.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之android-stackblur.md)|  
+|[android-stackblur](https://github.com/kikoso/android-stackblur)|对图像进行模糊化处理，可制作毛玻璃效果|android-stackblurdemo|[Android UI Libs之android-stackblur.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之android-stackblur.md)|  
 |[trianglify](https://github.com/manolovn/trianglify)|产生由不同颜色三角形组成的视图|trianglifydemo|[Android UI Libs之trianglify.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之trianglify.md)|  
 |[shimmer-android](https://github.com/facebook/shimmer-android)|让视图产生微光效果|shimmer-androiddemo|[Android UI Libs之shimmer-android.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之shimmer-android.md)|  
 |[Titanic](https://github.com/RomainPiel/Titanic)|让TextView产生下沉效果|titanicdemo|[Android UI Libs之Titanic.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之Titanic.md)|  

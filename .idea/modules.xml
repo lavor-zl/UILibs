@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/shimmer-androiddemo/shimmer-androiddemo.iml" filepath="$PROJECT_DIR$/shimmer-androiddemo/shimmer-androiddemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/shortcutbadgerdemo/shortcutbadgerdemo.iml" filepath="$PROJECT_DIR$/shortcutbadgerdemo/shortcutbadgerdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/showcaseviewdemo/showcaseviewdemo.iml" filepath="$PROJECT_DIR$/showcaseviewdemo/showcaseviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipetoloadlayoutdemo/swipetoloadlayoutdemo.iml" filepath="$PROJECT_DIR$/swipetoloadlayoutdemo/swipetoloadlayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/titanicdemo/titanicdemo.iml" filepath="$PROJECT_DIR$/titanicdemo/titanicdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/trianglifydemo/trianglifydemo.iml" filepath="$PROJECT_DIR$/trianglifydemo/trianglifydemo.iml" />
     </modules>
