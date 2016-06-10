@@ -21,3 +21,15 @@
 |[Titanic](https://github.com/RomainPiel/Titanic)|让TextView产生下沉效果|titanicdemo|[Android UI Libs之Titanic.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之Titanic.md)|  
 |[PhotoView](https://github.com/chrisbanes/PhotoView)|通过触摸放大图片|photoviewdemo|[Android UI Libs之PhotoView.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之PhotoView.md)|  
 |[SwipeToLoadLayout](https://github.com/Aspsine/SwipeToLoadLayout)|上拉刷新与下拉加载更多|swipetoloadlayoutdemo|[Android UI Libs之SwipeToLoadLayout.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之SwipeToLoadLayout.md)|  
+|[discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)|一个漂亮的滑动条|discreteseekbardemo|[Android UI Libs之DiscreteSeekBar.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之DiscreteSeekBar.md)|  
+
+
+***  
+希望大家可以多多star，fork，谢谢。  
+
+***  
+关于我  
+***  
+**我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)**   
+**我的微信公众号：Android技术漫谈**  
+![](http://i.imgur.com/u75x3BP.jpg)

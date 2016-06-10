@@ -55,13 +55,13 @@ TitanicTextView tv = (TitanicTextView) findViewById(R.id.my_text_view);
 ```  
 程序运行界面如下：  
 ![](http://i.imgur.com/JKKcmvU.gif)  
-我们发现英文字体变了，但是中文字体没有变，这是因为该字体库只包含因为不包含中文，如果想要中文字体也变化，就去找一个包含中文的字体库。  
+我们发现英文字体变了，但是中文字体没有变，这是因为该字体库只包含英文不包含中文，如果想要中文字体也变化，就去找一个包含中文的字体库。  
 
 如果我们需要停止下沉动画，只需要调用`Titanic`的`cancel()`方法即可。  
 
 程序源代码下载，我的github仓库：[https://github.com/lavor-zl/UILibs](https://github.com/lavor-zl/UILibs) 
 
 
-**欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)** 
+**欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)**   
 **欢迎关注我的微信公众号：Android技术漫谈**  
 ![](http://i.imgur.com/u75x3BP.jpg)

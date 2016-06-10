@@ -77,7 +77,7 @@
 程序源代码下载，我的github仓库：[https://github.com/lavor-zl/UILibs](https://github.com/lavor-zl/UILibs) 
 
 
-**欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)** 
+**欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)**   
 **欢迎关注我的微信公众号：Android技术漫谈**  
 ![](http://i.imgur.com/u75x3BP.jpg)
 
