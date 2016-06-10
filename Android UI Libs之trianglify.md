@@ -67,8 +67,9 @@ app:colorGenerator="com.manolovn.trianglify.generator.point.CircularPointGenerat
 
 **注意：目前作者并没有将最新的库上传到jcenter仓库，但是他的README.md文档确是按照最新的库讲解的。**  
 
-程序源代码下载：[https://github.com/lavor-zl/UILibs](https://github.com/lavor-zl/UILibs)   
+程序源代码下载，我的github仓库：[https://github.com/lavor-zl/UILibs](https://github.com/lavor-zl/UILibs) 
 
 
+**欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)** 
 **欢迎关注我的微信公众号：Android技术漫谈**  
 ![](http://i.imgur.com/u75x3BP.jpg)

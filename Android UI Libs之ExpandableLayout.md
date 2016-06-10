@@ -77,8 +77,9 @@ java文件中的相关代码：
 
 **注意：如果`ExpandableLayoutListView`中的item中有`EditView`,那么`ExpandableLayoutListView`要设置`android:windowSoftInputMode="adjustPan"`来阻止自身的重绘与item的关闭**  
 
-程序源代码下载：[https://github.com/lavor-zl/UILibs](https://github.com/lavor-zl/UILibs)  
+程序源代码下载，我的github仓库：[https://github.com/lavor-zl/UILibs](https://github.com/lavor-zl/UILibs) 
 
 
+**欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)** 
 **欢迎关注我的微信公众号：Android技术漫谈**  
 ![](http://i.imgur.com/u75x3BP.jpg)
