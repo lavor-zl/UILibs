@@ -21,5 +21,8 @@
         app:progress_text_color="#3498DB"
         app:progress_text_offset="1dp"
         app:progress_text_visibility="visible"
+
+        app:max="100"
+        app:progress="0"
         />
 </RelativeLayout>
