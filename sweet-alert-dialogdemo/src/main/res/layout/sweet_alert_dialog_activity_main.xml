@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lavor.widget.sweet_alert_dialogdemo.MainActivity">
+
+    <Button
+        android:id="@+id/showNormal"
+        android:text="显示普通警告框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/showError"
+        android:text="显示错误警告框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/showWarning"
+        android:text="显示警告警告框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/showSuccess"
+        android:text="显示成功警告框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/showCustomImage"
+        android:text="显示自定义图像警告框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/showProgress"
+        android:text="显示进度警告框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

@@ -23,6 +23,7 @@
 |[SwipeToLoadLayout](https://github.com/Aspsine/SwipeToLoadLayout)|上拉刷新与下拉加载更多|swipetoloadlayoutdemo|[Android UI Libs之SwipeToLoadLayout.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之SwipeToLoadLayout.md)|  
 |[discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)|一个漂亮的滑动条|discreteseekbardemo|[Android UI Libs之DiscreteSeekBar.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之DiscreteSeekBar.md)|  
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)|一个漂亮简洁的数字滑动条|numberprogressbardemo|[Android UI Libs之NumberProgressBar.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之NumberProgressBar.md)|  
+|[sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)|一个漂亮聪明的警告对话框|numberprogressbardemo|[Android UI Libs之NumberProgressBar.md](https://github.com/lavor-zl/UILibs/blob/master/Android%20UI%20Libs之NumberProgressBar.md)|  
 
 
 ***  
